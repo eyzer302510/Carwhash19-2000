@@ -1,2 +1,1 @@
-# Carwhash19-2000
-Auto lavado
+https://github.com/eyzer302510/profile-readme-generator/blob/main/.prettierrc
